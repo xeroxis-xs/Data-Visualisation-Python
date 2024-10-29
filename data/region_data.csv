@@ -1,0 +1,56 @@
+town,planning_region,planning_area,market_segment,maturity
+Ang Mo Kio,North-East,Ang Mo Kio,Outside Central Region,Mature Estate
+Bedok,East,Bedok,Outside Central Region,Mature Estate
+Bishan,Central,Bishan,Rest of Central Region,Mature Estate
+,West,Boon Lay,Outside Central Region,Not Classified
+Bukit Batok,West,Bukit Batok,Outside Central Region,Non-mature Estate
+Bukit Merah,Central,Bukit Merah,Rest of Central Region,Mature Estate
+Bukit Panjang,West,Bukit Panjang,Outside Central Region,Non-mature Estate
+Bukit Timah,Central,Bukit Timah,Core Central Region,Mature Estate
+,North,Central Water Catchment,Outside Central Region,Not Classified
+,East,Changi,Outside Central Region,Not Classified
+,East,Changi Bay,Outside Central Region,Not Classified
+Choa Chu Kang,West,Choa Chu Kang,Outside Central Region,Non-mature Estate
+Clementi,West,Clementi,Outside Central Region,Mature Estate
+,Central,Downtown Core,Core Central Region,Mature Estate
+Geylang,Central,Geylang,Rest of Central Region,Mature Estate
+Hougang,North-East,Hougang,Outside Central Region,Non-mature Estate
+Jurong East,West,Jurong East,Outside Central Region,Non-mature Estate
+Jurong West,West,Jurong West,Outside Central Region,Non-mature Estate
+Kallang/Whampoa,Central,Kallang,Rest of Central Region,Mature Estate
+,North,Lim Chu Kang,Outside Central Region,Not Classified
+,North,Mandai,Outside Central Region,Not Classified
+,Central,Marina East,Rest of Central Region,Mature Estate
+,Central,Marina South,Rest of Central Region,Mature Estate
+Marine Parade,Central,Marine Parade,Rest of Central Region,Mature Estate
+,Central,Museum,Core Central Region,Mature Estate
+,Central,Newton,Core Central Region,Mature Estate
+,North-East,North-Eastern Islands,Outside Central Region,Not Classified
+,Central,Novena,Core Central Region,Mature Estate
+,Central,Orchard,Core Central Region,Mature Estate
+,Central,Outram,Rest of Central Region,Mature Estate
+Pasir Ris,East,Pasir Ris,Outside Central Region,Mature Estate
+,East,Paya Lebar,Rest of Central Region,Not Classified
+,West,Pioneer,Outside Central Region,Not Classified
+Punggol,North-East,Punggol,Outside Central Region,Non-mature Estate
+Queenstown,Central,Queenstown,Rest of Central Region,Mature Estate
+,Central,River Valley,Core Central Region,Mature Estate
+,Central,Rochor,Rest of Central Region,Mature Estate
+,North-East,Seletar,Outside Central Region,Not Classified
+Sembawang,North,Sembawang,Outside Central Region,Non-mature Estate
+Sengkang,North-East,Sengkang,Outside Central Region,Non-mature Estate
+Serangoon,North-East,Serangoon,Outside Central Region,Mature Estate
+,North,Simpang,Outside Central Region,Not Classified
+,Central,Singapore River,Core Central Region,Mature Estate
+,Central,Southern Islands,Core Central Region,Mature Estate
+,Central,Straits View,Core Central Region,Mature Estate
+,North,Sungei Kadut,Outside Central Region,Not Classified
+Tampines,East,Tampines,Outside Central Region,Mature Estate
+,Central,Tanglin,Core Central Region,Mature Estate
+,West,Tengah,Outside Central Region,Non-mature Estate
+Toa Payoh,Central,Toa Payoh,Rest of Central Region,Mature Estate
+,West,Tuas,Outside Central Region,Not Classified
+,West,Western Islands,Outside Central Region,Not Classified
+,West,Western Water Catchment,Outside Central Region,Not Classified
+Woodlands,North,Woodlands,Outside Central Region,Non-mature Estate
+Yishun,North,Yishun,Outside Central Region,Non-mature Estate
